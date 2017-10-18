@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="draweritems_array">
+        <item>mainmenu</item>
+        <item>Global Settings</item>
+        <item>Manage Active Decks</item>
+        <item>Edit Decks</item>
+        <item>Extra 1</item>
+        <item>Extra 2</item>
+        <item>Extra 3</item>
+        <item>Extra 4</item>
+    </string-array>
+    <string-array name="draweritems_jpegnames">
+        <item>mainmenu</item>
+        <item>Jupiter</item>
+        <item>Mars</item>
+        <item>Mercury</item>
+        <item>Neptune</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Venus</item>
+    </string-array>
+    <string name="action_websearch">Web search</string>
+    <string name="app_name">Navigation Drawer Example</string>
+    <string name="app_not_available">Sorry, there\'s no web browser available</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="drawer_open">Open navigation drawer</string>
+</resources>

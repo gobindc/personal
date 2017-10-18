@@ -1,0 +1,101 @@
+[
+    {
+        "outputFile": "C:\\Users\\gobin\\OneDrive\\Documents\\GitHub\\NavigationDrawer\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 11,
+                    "endColumn": 19,
+                    "endOffset": 370
+                },
+                "from": {
+                    "file": "C:\\Users\\gobin\\OneDrive\\Documents\\GitHub\\NavigationDrawer\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 375,
+                    "endLine": 21,
+                    "endColumn": 19,
+                    "endOffset": 664
+                },
+                "from": {
+                    "file": "C:\\Users\\gobin\\OneDrive\\Documents\\GitHub\\NavigationDrawer\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1004,
+                        "endLine": 38,
+                        "endColumn": 19,
+                        "endOffset": 1293
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 669,
+                    "endColumn": 55,
+                    "endOffset": 720
+                },
+                "from": {
+                    "file": "C:\\Users\\gobin\\OneDrive\\Documents\\GitHub\\NavigationDrawer\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 725,
+                    "endColumn": 62,
+                    "endOffset": 783
+                },
+                "from": {
+                    "file": "C:\\Users\\gobin\\OneDrive\\Documents\\GitHub\\NavigationDrawer\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 788,
+                    "endColumn": 86,
+                    "endOffset": 870
+                },
+                "from": {
+                    "file": "C:\\Users\\gobin\\OneDrive\\Documents\\GitHub\\NavigationDrawer\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 875,
+                    "endColumn": 64,
+                    "endOffset": 935
+                },
+                "from": {
+                    "file": "C:\\Users\\gobin\\OneDrive\\Documents\\GitHub\\NavigationDrawer\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 940,
+                    "endColumn": 62,
+                    "endOffset": 998
+                },
+                "from": {
+                    "file": "C:\\Users\\gobin\\OneDrive\\Documents\\GitHub\\NavigationDrawer\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,7 @@
+#Wed Oct 18 03:00:42 EDT 2017
+base.0=C\:\\Users\\gobin\\OneDrive\\Documents\\GitHub\\NavigationDrawer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_3e877ee7a9c4e1984ee4e19ae08a1c11063dbe8c
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\gobin\\OneDrive\\Documents\\GitHub\\NavigationDrawer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_75a93c97914722210b5c475aa7a7d2aec94b36ef\\classes.dex
+base.1=C\:\\Users\\gobin\\OneDrive\\Documents\\GitHub\\NavigationDrawer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_75a93c97914722210b5c475aa7a7d2aec94b36ef
+file.0=C\:\\Users\\gobin\\OneDrive\\Documents\\GitHub\\NavigationDrawer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_3e877ee7a9c4e1984ee4e19ae08a1c11063dbe8c\\classes.dex
